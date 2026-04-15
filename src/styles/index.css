@@ -616,17 +616,23 @@ img {
 
   .site-nav__inner {
     width: calc(100vw - 24px);
-    padding: 14px 16px;
+    padding: 12px 14px;
     border-radius: 28px;
   }
 
   .site-nav__links {
-    gap: 10px 14px;
+    gap: 8px 12px;
+    justify-content: center;
   }
 
   .site-nav__brand {
-    font-size: 1.02rem;
-    letter-spacing: 0.1rem;
+    font-size: 0.92rem;
+    letter-spacing: 0.06rem;
+  }
+
+  .site-nav__link {
+    font-size: 0.8rem;
+    letter-spacing: 0.12rem;
   }
 
   .section,
@@ -636,8 +642,20 @@ img {
   }
 
   .hero__title {
-    font-size: clamp(1.8rem, 8vw, 3rem) !important;
-    letter-spacing: 0.04rem !important;
+    font-size: clamp(1.45rem, 7vw, 2.4rem) !important;
+    letter-spacing: 0.015rem !important;
+    line-height: 1.08 !important;
+  }
+
+  .hero__subtitle {
+    max-width: 31ch;
+    font-size: 0.98rem;
+  }
+
+  .contact-card h2 {
+    font-size: clamp(2.2rem, 12vw, 3.4rem);
+    line-height: 0.98;
+    word-break: break-word;
   }
 
   .contact-card,
