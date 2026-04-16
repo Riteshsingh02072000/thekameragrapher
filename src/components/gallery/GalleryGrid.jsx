@@ -5,7 +5,7 @@ function GalleryGrid({ photos, onSelect, selectedId }) {
     <section className="section section--gallery" id="gallery">
       <div className="section-heading section-heading--compact">
         <p className="eyebrow">Curated Collection</p>
-        <h2>Select a frame to open it in full-screen lightbox mode.</h2>
+        <h2>Pick a shot and give it the screen time it deserves.</h2>
       </div>
 
       <div className="gallery-grid">

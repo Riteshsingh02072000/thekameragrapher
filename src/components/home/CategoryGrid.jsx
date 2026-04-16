@@ -4,11 +4,11 @@ function CategoryGrid({ categories }) {
   return (
     <section className="section section--categories" id="categories">
       <div className="section-heading">
-        <p className="eyebrow">Selected Work</p>
-        <h2>Five worlds, one visual signature.</h2>
+        <p className="eyebrow">Pick Your Chaos</p>
+        <h2>Same camera, very different moods.</h2>
         <p>
-          Each gallery opens into its own dedicated page with full-screen viewing, hover states, and curated
-          image selection.
+          Some folders are fast, some are quiet, some are just me getting distracted by good shadows. Open any
+          one and take a look around.
         </p>
       </div>
 

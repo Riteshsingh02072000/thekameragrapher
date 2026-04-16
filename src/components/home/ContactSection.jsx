@@ -2,20 +2,20 @@ function ContactSection() {
   return (
     <section className="section section--contact" id="contact">
       <div className="contact-card">
-        <p className="eyebrow">Let&apos;s Build Something Beautiful</p>
-        <h2>Bookings, collaborations, editorials, and commissioned visual stories.</h2>
+        <p className="eyebrow">Need Photos? I Know A Guy.</p>
+        <h2>Bookings, portraits, car shoots, travel frames, and other camera-fueled bad decisions.</h2>
         <p>
-          Available for select portrait sessions, automotive campaigns, destination features, and aerial
-          storytelling projects.
+          If you&apos;ve got a location, an idea, or just a loose plan and good energy, that&apos;s usually enough
+          to start the conversation.
         </p>
 
         <div className="contact-card__meta">
-          <a href="mailto:hello@thekameragrapher.com">hello@thekameragrapher.com</a>
-          <a href="https://instagram.com" target="_blank" rel="noreferrer">
+          <a href="mailto:rs806241@gmail.com">rs806241@gmail.com</a>
+          <a href="https://www.instagram.com/thekameragrapher/" target="_blank" rel="noreferrer">
             Instagram
           </a>
-          <a href="https://behance.net" target="_blank" rel="noreferrer">
-            Behance
+          <a href="https://www.pexels.com/@thekameragrapher/" target="_blank" rel="noreferrer">
+            Pexels
           </a>
         </div>
       </div>

@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "generate:gallery": "node scripts/generate-gallery-data.mjs",
+    "optimize:portfolio": "node scripts/optimize-portfolio-images.mjs",
     "build": "vite build",
     "preview": "vite preview"
   },

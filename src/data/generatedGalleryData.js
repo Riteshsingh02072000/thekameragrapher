@@ -9,8 +9,8 @@ export const categories = [
     "slug": "automotive",
     "label": "Automotive",
     "title": "Automotive",
-    "description": "Sculpted metal, cinematic roads, and precision-lit machine portraits.",
-    "longDescription": "Automotive frames focused on performance, atmosphere, and the emotional design of motion. Built for campaigns, launches, editorial spreads, and collector storytelling.",
+    "description": "Fast things, loud paint, and machines that know they are being watched.",
+    "longDescription": "Mostly cars doing car things: looking dramatic, catching reflections, and pretending the parking lot is a runway. Equal parts speed, shape, and attitude.",
     "coverImage": {
       "src": "/portfolio/automotive/DEF_0395.jpg",
       "alt": "Automotive photography cover"
@@ -540,8 +540,8 @@ export const categories = [
     "slug": "portrait",
     "label": "Portrait",
     "title": "Portrait",
-    "description": "Editorial portraiture with cinematic skin tones and composed intimacy.",
-    "longDescription": "Portrait sessions crafted with restraint, texture, and mood. Ideal for personal brands, editorials, artists, and timeless identity-driven storytelling.",
+    "description": "Faces, moods, and the occasional expression that lasts half a second.",
+    "longDescription": "Portraits that sit somewhere between polished and personal. A little editorial, a little candid, and hopefully never too stiff.",
     "coverImage": {
       "src": "/portfolio/portrait/DEF_7414.jpg",
       "alt": "Portrait photography cover"
@@ -966,8 +966,8 @@ export const categories = [
     "slug": "travel",
     "label": "Travel",
     "title": "Travel",
-    "description": "Destinations captured as atmosphere, memory, and lived-in perspective.",
-    "longDescription": "Travel imagery balancing scale with intimacy, from textured alleyways to open landscapes. Designed for tourism campaigns, editorials, and destination features.",
+    "description": "Places I liked enough to stop walking for.",
+    "longDescription": "Travel frames built from wrong turns, good skies, lucky timing, and the occasional \"wait, stop the car\" moment.",
     "coverImage": {
       "src": "/portfolio/travel/LAX_0904.jpg",
       "alt": "Travel photography cover"
@@ -1196,8 +1196,8 @@ export const categories = [
     "slug": "street",
     "label": "Street",
     "title": "Street",
-    "description": "Candid urban rhythm, shadows, geometry, and split-second gestures.",
-    "longDescription": "Street work rooted in timing, observation, and visual tension. These images elevate fleeting moments into graphic, human-centered narratives.",
+    "description": "Blink and it's gone. Good thing the camera was faster.",
+    "longDescription": "Street photography is basically patience mixed with chaos. These are the frames where timing, light, and pure luck agreed to cooperate.",
     "coverImage": {
       "src": "/portfolio/street/LAX_1002.jpg",
       "alt": "Street photography cover"
@@ -1524,8 +1524,8 @@ export const categories = [
     "slug": "drone",
     "label": "Drone",
     "title": "Drone",
-    "description": "Aerial perspectives where scale, abstraction, and landscape collide.",
-    "longDescription": "Drone galleries built around altitude, geometry, and spatial drama. Perfect for landscape campaigns, tourism visuals, architecture, and high-impact openers.",
+    "description": "Proof that almost everything looks cooler from above.",
+    "longDescription": "Aerial shots for when the ground-level version was not dramatic enough. Big shapes, small people, and slightly unfair perspective.",
     "coverImage": {
       "src": "/portfolio/drone/DJI_0347.jpg",
       "alt": "Drone photography cover"

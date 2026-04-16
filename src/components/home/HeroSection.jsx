@@ -17,10 +17,10 @@ function HeroSection() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
       >
-        <p className="eyebrow">Luxury Frames. Quiet Motion.</p>
+        <p className="eyebrow">Good light, odd timing, no flashbacks.</p>
         <h1 className="hero__title">THEKAMERAGRAPHER</h1>
         <p className="hero__subtitle">
-          A premium visual journal moving through machines, faces, streets, skies, and faraway roads.
+          Cars, people, streets, travels, and the occasional view from irresponsibly high above the ground.
         </p>
         <a className="button button--ghost" href="#categories">
           Enter Portfolio

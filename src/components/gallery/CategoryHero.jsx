@@ -20,7 +20,7 @@ function CategoryHero({ category }) {
         <p>{category.longDescription}</p>
         <div className="category-hero__actions">
           <a className="button" href="#gallery">
-            Explore Frames
+            See The Good Stuff
           </a>
           <Link className="button button--ghost" to="/">
             Back Home

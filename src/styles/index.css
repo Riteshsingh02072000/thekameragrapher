@@ -505,11 +505,13 @@ img {
 
 .lightbox__dialog {
   width: min(1180px, 100%);
+  max-height: calc(100vh - 48px);
   padding: 20px;
   border: 1px solid var(--border);
   border-radius: 30px;
   background: rgba(12, 12, 12, 0.92);
   box-shadow: var(--shadow);
+  overflow: auto;
 }
 
 .lightbox__close,
@@ -530,8 +532,21 @@ img {
 .lightbox__media {
   position: relative;
   margin-top: 16px;
-  min-height: 70vh;
-  overflow: hidden;
+  display: grid;
+  place-items: center;
+  min-height: 0;
+  max-height: calc(100vh - 220px);
+  padding: 24px 56px;
+  overflow: visible;
+  border-radius: 24px;
+}
+
+.lightbox__media img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: calc(100vh - 268px);
+  object-fit: contain;
   border-radius: 24px;
 }
 
@@ -668,6 +683,11 @@ img {
   }
 
   .lightbox__media {
-    min-height: 52vh;
+    max-height: calc(100vh - 180px);
+    padding: 16px 42px;
+  }
+
+  .lightbox__media img {
+    max-height: calc(100vh - 220px);
   }
 }

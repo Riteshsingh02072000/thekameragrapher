@@ -4,9 +4,9 @@ export const galleryConfig = {
     automotive: {
       label: 'Automotive',
       title: 'Automotive',
-      description: 'Sculpted metal, cinematic roads, and precision-lit machine portraits.',
+      description: 'Fast things, loud paint, and machines that know they are being watched.',
       longDescription:
-        'Automotive frames focused on performance, atmosphere, and the emotional design of motion. Built for campaigns, launches, editorial spreads, and collector storytelling.',
+        'Mostly cars doing car things: looking dramatic, catching reflections, and pretending the parking lot is a runway. Equal parts speed, shape, and attitude.',
       defaultMeta: 'Selected automotive work',
       featuredPhotos: [
         { file: 'DEF_0395.jpg', title: 'Car Culture', meta: 'Film Style, Car Meet, Cinematic' },
@@ -20,9 +20,9 @@ export const galleryConfig = {
     portrait: {
       label: 'Portrait',
       title: 'Portrait',
-      description: 'Editorial portraiture with cinematic skin tones and composed intimacy.',
+      description: 'Faces, moods, and the occasional expression that lasts half a second.',
       longDescription:
-        'Portrait sessions crafted with restraint, texture, and mood. Ideal for personal brands, editorials, artists, and timeless identity-driven storytelling.',
+        'Portraits that sit somewhere between polished and personal. A little editorial, a little candid, and hopefully never too stiff.',
       defaultMeta: 'Selected portrait work',
       featuredPhotos: [
         { file: 'DEF_7414.jpg', title: 'Self Portrait', meta: 'Self Portrait / Art Museum / Refined framing' },
@@ -36,9 +36,9 @@ export const galleryConfig = {
     travel: {
       label: 'Travel',
       title: 'Travel',
-      description: 'Destinations captured as atmosphere, memory, and lived-in perspective.',
+      description: 'Places I liked enough to stop walking for.',
       longDescription:
-        'Travel imagery balancing scale with intimacy, from textured alleyways to open landscapes. Designed for tourism campaigns, editorials, and destination features.',
+        'Travel frames built from wrong turns, good skies, lucky timing, and the occasional "wait, stop the car" moment.',
       defaultMeta: 'Selected travel work',
       featuredPhotos: [
         { file: 'LAX_0904.jpg', title: 'Los Angeles', meta: 'Skyline / Destination editorial / Clean atmosphere' },
@@ -50,9 +50,9 @@ export const galleryConfig = {
     street: {
       label: 'Street',
       title: 'Street',
-      description: 'Candid urban rhythm, shadows, geometry, and split-second gestures.',
+      description: "Blink and it's gone. Good thing the camera was faster.",
       longDescription:
-        'Street work rooted in timing, observation, and visual tension. These images elevate fleeting moments into graphic, human-centered narratives.',
+        'Street photography is basically patience mixed with chaos. These are the frames where timing, light, and pure luck agreed to cooperate.',
       defaultMeta: 'Selected street work',
       featuredPhotos: [
         { file: 'LAX_1002.jpg', title: 'Dramatic Sunset', meta: 'Nature / Sunset / Graphic shadows' },
@@ -64,9 +64,9 @@ export const galleryConfig = {
     drone: {
       label: 'Drone',
       title: 'Drone',
-      description: 'Aerial perspectives where scale, abstraction, and landscape collide.',
+      description: 'Proof that almost everything looks cooler from above.',
       longDescription:
-        'Drone galleries built around altitude, geometry, and spatial drama. Perfect for landscape campaigns, tourism visuals, architecture, and high-impact openers.',
+        'Aerial shots for when the ground-level version was not dramatic enough. Big shapes, small people, and slightly unfair perspective.',
       defaultMeta: 'Selected drone work',
       featuredPhotos: [
         { file: 'DJI_0347.jpg', title: 'CountrySide', meta: 'Country / Aerial study / High-altitude calm' },
