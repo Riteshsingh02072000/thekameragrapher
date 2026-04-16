@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "generate:gallery": "node scripts/generate-gallery-data.mjs",
     "build": "vite build",
     "preview": "vite preview"
   },
